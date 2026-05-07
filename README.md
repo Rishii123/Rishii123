@@ -39,7 +39,9 @@ Hi, I’m Krishika, currently pursuing B.Tech in Computer Science, with a strong
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 ## 📊 GitHub Stats:
+
 <br>
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rishii123&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
