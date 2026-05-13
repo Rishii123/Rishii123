@@ -4,7 +4,7 @@ Hi, I’m Krishika, currently pursuing B.Tech in Computer Science, with a strong
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/krishika-bhandari-a91a73270) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bkrishika1234@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishika-bhandari-a91a73270) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bkrishika1234@gmail.com) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/Krishii) 
 
 
